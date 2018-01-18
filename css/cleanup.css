@@ -22,4 +22,6 @@
   display: none;
 }
 
-#wall 
+#wall .parent #tag-7.slick {
+  display: none;
+}
