@@ -14,4 +14,6 @@
   display: none;
 }
 
-#wall .parent 
+#wall .parent .slick {
+  display: none;
+}
