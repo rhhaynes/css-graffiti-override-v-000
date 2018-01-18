@@ -1,5 +1,7 @@
-#wall .parent, #wall .slick, #wall .tag-1{
+#wall .parent, #wall .slick, #wall .tag-1 {
   display: none;
 }
 
-#wall .
+#wall .parent .slick {
+  display: none;
+}
