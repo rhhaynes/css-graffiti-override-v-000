@@ -6,11 +6,11 @@
   display: none;
 }
 
-#wall .slick, #wall .wicked {
+#wall.slick, #wall.wicked {
   display: none;
 }
 
-#wall .parent #tag-4 {
+#wall #tag-4 {
   display: none;
 }
 
