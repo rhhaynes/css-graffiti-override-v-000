@@ -22,6 +22,6 @@
   display: none;
 }
 
-/*#wall .parent #tag-7.slick {
+#wall .parent:last-child #tag-7.slick {
   display: none;
-}*/
+}
