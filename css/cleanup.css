@@ -14,7 +14,7 @@
   display: none;
 }
 
-#wall .parent + #tag-5.slick:first-child {
+#wall .parent > #tag-5.slick:first-child {
   display: none;
 }
 
